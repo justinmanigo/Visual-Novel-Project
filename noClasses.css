@@ -1,0 +1,66 @@
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+p { 
+    font: bold 180% Consolas, Monaco, monospace;
+    width: 16.5em; 
+    width: 90ch;
+    margin: 2em 1em;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-animation: typing 4s steps(50, end);
+	
+}
+body {
+background-image: url("image/croom.jpg");
+background-attachment: fixed;
+background-repeat: no repeat;
+background-size: 100% 100%;
+background-position: center;}
+.row > div{
+	border: 1px solid black;
+	width: 100%;
+	margin-top: % ;
+	background-color:yellow;
+	opacity: 0.8;
+}
+.pic{
+    float:left;
+    overflow:hidden;
+    text-indent:-9999px;
+    width:100%;
+    height:100%;;
+}
+
+.btn-arrow-leftW{
+		margin-left:98%;
+}
+.btn-arrow-left{
+	margin-left:98%;	
+}
+p{
+	margin-left:%;
+	
+}
+
+.btn-success{
+		width:70%;
+		height:10%;
+		
+}
+
+
+
+
+
+/* character css */
+
+
+
+
+
+/* map css */
+.map{
+margin-top: 12%;	
+}

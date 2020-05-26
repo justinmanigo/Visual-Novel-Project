@@ -1,0 +1,296 @@
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+p { 
+    font: bold 180% Consolas, Monaco, monospace;
+    width: 16em; 
+    width: 107ch;
+    margin: 2em 1em;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-animation: typing 4s steps(50, end);
+	
+}
+
+body {
+background-image: url("settings/gym.jpg");
+background-attachment: fixed;
+background-repeat: no repeat;
+background-size: 100% 100%;
+background-position: center;}
+
+
+.row > div{
+	border: 1px solid black;
+	width: 99%;
+	margin-top:  ;
+	background-color:yellow;
+	opacity: 0.8;
+}
+
+.btn-arrow-leftW{
+		margin-left:98%;
+}
+
+
+.glyphicon-circle-arrow-right{
+	margin:0% 0% 1% 98%;
+	
+	
+}
+.btn-arrow-left{
+	margin-left:98%;	
+}
+
+.chatq{
+		margin-top:-1%;
+	
+}
+
+
+.btn-success{
+		width:70%;
+		height:10%;
+		
+}
+
+
+
+/* character css */
+
+/* snow css */
+#snowshock{
+
+	height:67%;
+}
+
+#snowcute{
+
+		height:67%;
+}
+
+#snowangry{
+
+			height:67%;
+}
+#snowdefault{
+			height:67%;
+			
+			
+			
+			/* user */
+			
+}		
+
+
+#uhappy{
+	height:67%;
+}
+
+#uconfuse{
+	height:67%;
+}
+
+#udefault{
+	height:67%;
+	
+}
+
+
+
+#uannoy{
+	height:67%;
+	
+}
+
+#usilent{
+	height:67%;
+}
+
+#uwow{
+	height:67%;
+}
+
+/* mia css */
+
+
+
+#miaconfuse{
+	height:67%;
+}
+
+#miashock{
+	height:67%;
+}
+
+#miasmile{
+	height:67%;
+}
+#miadefault{
+	height:67%;
+	
+}
+
+
+/* lily css */
+#lilyconfuse{
+	height:67%;
+	
+	
+}
+
+#lilyayy{
+	height:67%;
+	
+}
+
+#lilydefault{
+	height:67%;
+	
+}
+
+#lilyglad{
+	height:67%;
+	
+}
+#lilyhuh{
+	height:67%;
+	
+}
+
+#lilyshock{
+	
+	height:67%;
+}
+
+/* rose css */
+
+#roseangry{
+	height:67%;
+}
+#rosedefualt{
+	
+	height:67%;
+}
+#rosehmm{
+	height:67%;
+}
+#rosesmile{
+	height:67%;
+	
+}
+
+
+
+
+
+
+#shade{
+ margin-top:30px;	
+}
+#flower{
+ margin-top:30px;	
+}
+#bag{
+ margin-top:20px;	
+}
+#npolish{
+ margin-top:17px;	
+}
+#makeup{
+ margin-top:17px;	
+}
+#food{
+ margin-top:10px;	
+}
+#lipstick{
+ margin-top:30px;	
+}
+#choco{
+ margin-top:30px;	
+}
+
+
+/* modal css */
+.text {
+  background-color: #02fffa;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+   border-radius: 20px;
+   cursor: pointer;
+}
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.tex{
+	border: 1px solid black;
+	width: 100%;
+	margin-top: 33% ;
+	background-color:yellow;
+	opacity: 0.8;
+}
+
+.set{
+ margin-top:1.5%;	
+}
+
+
+.thumbnail:hover .image {
+  opacity: 0.3;
+}
+
+.thumbnail:hover .middle {
+  opacity: 1;
+}
+.thumbnail{
+	height:15%;
+}
+#s{
+ margin-top:30px;	
+}
+#f{
+ margin-top:30px;	
+}
+#b{
+ margin-top:20px;	
+}
+#n{
+ margin-top:17px;	
+}
+/* Modal Content */
+.modal-content {
+    background-color: #ffefef;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 40%;
+	
+	
+	margin-top:5%;
+	
+}
+
+/* The Close Button */
+.close {
+    color: black;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+

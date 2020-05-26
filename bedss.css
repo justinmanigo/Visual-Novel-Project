@@ -1,0 +1,298 @@
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+p { 
+    font: bold 180% Consolas, Monaco, monospace;
+    width: 16.5em; 
+    width: 100ch;
+    margin: 2em 1em;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-animation: typing 2s steps(50, end);
+	
+}
+
+
+body {
+background-image: url("settings/bed.png");
+background-attachment: fixed;
+background-repeat: no repeat;
+background-size: 100% 100%;
+background-position: center;
+    
+}
+
+
+.text {
+  background-color: #02fffa;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+   border-radius: 20px;
+   cursor: pointer;
+}
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+#asd{
+	border: 1px solid black;
+	width: 100%;
+	margin-top:0 % ;
+	background-color:yellow;
+	opacity: 0.8;
+}
+#chatq{
+	border: 1px solid black;
+	width: 100%;
+	margin-top: 0% ;
+	background-color:yellow;
+	opacity: 0.8;
+}
+
+#chat{
+	border: 1px solid black;
+	width: 100%;
+	margin-top: 0% ;
+	background-color:yellow;
+	opacity: 0.8;
+}
+.pic{
+    float:left;
+    overflow:hidden;
+    text-indent:-9999px;
+    width:100%;
+    height:100%;;
+}
+
+.set{
+ margin-top:1.5%;	
+}
+.btn-arrow-leftW{
+		margin-left:98%;
+}
+.btn-arrow-left{
+		margin-left:98%;
+}
+.glyphicon-circle-arrow-right{
+	margin:0% 0% 1% 1650px;
+	
+	
+}
+
+.btn-success{
+		width:70%;
+		height:10%;
+		
+}
+ 
+.thumbnail:hover .image {
+  opacity: 0.3;
+}
+
+.thumbnail:hover .middle {
+  opacity: 1;
+}
+.thumbnail{
+	height:15%;
+}
+#ballpen{
+ margin-top:30px;	
+}
+#food{
+ margin-top:30px;	
+}
+#flowers{
+ margin-top:20px;	
+}
+#chocolate{
+ margin-top:17px;	
+}
+#fruits{
+ margin-top:17px;	
+}
+#book {
+ margin-top:17px;	
+}
+
+
+/* Modal Content */
+.modal-content {
+    background-color: #ffefef;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 40%;
+	margin-top:5%;
+	
+}
+
+#boq{
+    width: 70px;
+    margin-top:20%;
+    
+}
+
+#boq:hover{
+  opacity: 0.6;
+}
+
+
+/* The Close Button */
+.close {
+    color: black;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+
+/* character css */
+
+/* snow css */
+#snowshock{
+
+	height:67%;
+}
+
+#snowcute{
+
+		height:67%;
+}
+
+#snowangry{
+
+			height:67%;
+}
+#snowdefault{
+			height:67%;
+			
+			
+			
+			/* user */
+			
+}		
+
+
+#uhappy{
+	height:67%;
+}
+
+#uconfuse{
+	height:67%;
+}
+
+#udefault{
+	height:67%;
+	
+}
+
+#udef{
+    height:71%;
+}
+
+
+
+#uannoy{
+	height:67%;
+    
+	
+}
+
+#usilent{
+	height:67%;
+}
+
+#uwow{
+	height:67%;
+}
+#uconfuse{
+	height:67%;
+}
+/* mia css */
+
+
+
+#miaconfuse{
+	height:67%;
+}
+
+#miashock{
+	height:67%;
+}
+
+#miasmile{
+	height:67%;
+}
+#miadefault{
+	height:67%;
+	
+}
+
+
+/* lily css */
+#lilyconfuse{
+	height:67%;
+	
+	
+}
+
+#lilyayy{
+	height:67%;
+	
+}
+
+#lilydefault{
+	height:67%;
+	
+}
+
+#lilyglad{
+	height:67%;
+	
+}
+#lilyhuh{
+	height:67%;
+	
+}
+
+#lilyshock{
+	
+	height:67%;
+}
+
+/* rose css */
+
+#roseangry{
+	height:67%;
+}
+#rosedefualt{
+	
+	height:67%;
+}
+#rosehmm{
+	height:67%;
+}
+#rosesmile{
+	height:67%;
+	
+}
+
+
+
+

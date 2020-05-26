@@ -1,0 +1,41 @@
+
+body {
+background-image: url("image/bd.png");
+background-attachment: fixed;
+background-repeat: no repeat;
+background-size: 100% 100%;
+background-position: center;}
+
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+p { 
+    font: bold 180% Consolas, Monaco, monospace;
+    width: 16.5em; 
+    width: 100ch;
+    margin: 2em 0em;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-animation: typing 2s steps(50,100);
+	
+}
+.gallery{
+	margin-top: 10%;
+}
+
+h2{
+ text-align:center;	
+}
+
+.asd{
+	border: 1px solid black;
+	width: 100%;
+	margin-top: 3% ;
+	background-color:yellow;
+	opacity: 0.8;
+}
+
+.row{
+	margin-top:7%
+}

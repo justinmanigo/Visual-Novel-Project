@@ -1,0 +1,86 @@
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+p { 
+    font: bold 180% Consolas, Monaco, monospace;
+    width: 16.5em; 
+    width: 150ch;
+    margin: 2em 1em;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-animation: typing 2s steps(50, end);
+	
+}
+
+#text{
+	border: 1px solid black;
+	width: 101.5%;
+	margin-top: 39% ;
+	background-color:yellow;
+	opacity: 0.8;
+}
+
+
+
+.row{
+	margin-top: 20%;
+}
+
+#wew{
+	margin-bottom: 20%;
+}
+
+body {
+background-image: url("image/bd.png");
+background-attachment: fixed;
+background-repeat: no repeat;
+background-size: 100% 100%;
+background-position: center;
+
+
+}
+#place{
+	width:50%;
+}
+
+#usr{
+	width: 30%;
+	height: 5%;
+	margin-bottom:10%;
+	margin-top:%;
+}
+
+#bes{
+	margin-top: 23%;
+	
+}
+
+img{
+ 	position: absolute;
+  	top: 30%;
+  	left: 28%;
+	width: 40%;
+	border-radius: 25px;
+  	
+}
+.glyphicon-circle-arrow-right{
+	margin-left:1850px;
+	
+	
+}
+
+.in{
+	margin-top: 10%;
+}
+
+.btn-danger{
+	width: 40%;
+	height: 5%;
+	margin-left:5%;
+	margin-top:0%;
+}
+
+
+
+
